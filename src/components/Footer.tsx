@@ -9,7 +9,7 @@ export const Footer = () => {
               href="https://kiranrajbadakambi.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-indigo-600 hover:text-indigo-800 transition-colors font-medium"
+              className="text-primary-900 hover:text-primary-1000 transition-colors font-medium"
             >
               Kiran Badakambi
             </a>
